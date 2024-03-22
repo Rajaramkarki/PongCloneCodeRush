@@ -18,6 +18,16 @@ To run the game in Unity, follow these steps:
 6. Double click on the 'MainScene' to open it.
 7. Press the play button at the top of the Unity interface to run the game.
 
+## Controls
+
+- Player 1:
+  - Move Up: 'W' key
+  - Move Down: 'S' key
+
+- Player 2:
+  - Move Up: Up arrow key
+  - Move Down: Down arrow key
+
 ## Hosting
 
 The game is hosted at [https://rajaramkarki.github.io/PongGameHost/](https://rajaramkarki.github.io/PongGameHost/).
@@ -25,6 +35,3 @@ The game is hosted at [https://rajaramkarki.github.io/PongGameHost/](https://raj
 ## Assets
 
 The assets used in this project are taken from [Hektorprofe's Neon Pong](https://hektorprofe.itch.io/neon-pong). Credits to Hektorprofe for providing these assets.
-
-
-
